@@ -6,7 +6,7 @@ const PORT = 9050;
 const app = express();
 
 app.get("/", (req, res) => {
-  res.send("반갑습니다. !!!!!");
+  res.send("메테오~ 메테오 ~ 거대 메테오야 ~ ");
 });
 
 app.listen(PORT);
